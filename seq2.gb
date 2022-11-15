@@ -1,0 +1,663 @@
+LOCUS       AF397131                 896 bp    DNA     linear   PLN 26-JUL-2016
+DEFINITION  Capsicum annuum var. annuum isolate W24 waxy (waxy) gene, partial
+            cds.
+ACCESSION   AF397131
+VERSION     AF397131.1
+KEYWORDS    .
+SOURCE      Capsicum annuum var. annuum
+  ORGANISM  Capsicum annuum var. annuum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; asterids; lamiids; Solanales; Solanaceae;
+            Solanoideae; Capsiceae; Capsicum.
+REFERENCE   1  (bases 1 to 896)
+  AUTHORS   Walsh,B.M. and Hoot,S.B.
+  TITLE     Phylogenetic relationships of Capsicum (Solanaceae) using DNA
+            sequences from two noncoding regions: The chloroplast atpB-rbcL
+            spacer region and nuclear waxy introns
+  JOURNAL   Int. J. Plant Sci. 162 (2), 1409-1418 (2001)
+REFERENCE   2  (bases 1 to 896)
+  AUTHORS   Hoot,S.B. and Walsh,B.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JUN-2001) Biological Sciences, University of
+            Wisconsin-Milwaukee, PO Box 413, Milwaukee, WI 53201, USA
+FEATURES             Location/Qualifiers
+     source          1..896
+                     /organism="Capsicum annuum var. annuum"
+                     /mol_type="genomic DNA"
+                     /variety="annuum"
+                     /isolate="W24"
+                     /db_xref="taxon:40321"
+     gene            <1..>896
+                     /gene="waxy"
+     mRNA            join(<104..202,315..404,498..561,646..746,837..>896)
+                     /gene="waxy"
+                     /product="waxy"
+     CDS             join(<104..202,315..404,498..561,646..746,837..>896)
+                     /gene="waxy"
+                     /codon_start=1
+                     /product="waxy"
+                     /protein_id="AAL38507.1"
+                     /translation="VKVGDNIEVVRFFHCYKRGVDRIFVDHPMFLERVWGKTASKIYG
+                     PKAGQDYLDNELRFSLLCQAALEAPRVLNLNCSKSFSGPYGEDVLFIANDWHTALIPC
+                     YLKSMYQSKGIYMNAKVAFCIHNIAYQGRFSFSDFS"
+ORIGIN      
+        1 ctgggatacg cattacggtt gaggtattcc tctcttaact gtgactgatg caatgtatat
+       61 cttccattac ctgatttacg catctatccc tatttgtctg caggtcaaag ttggagacaa
+      121 catcgaagtt gttcgtttct ttcactgcta taaacgtggg gttgatcgca tttttgttga
+      181 ccacccaatg ttcttggaga gagtaagaat acgctaaacc cttagagagg tccggaggga
+      241 tactacaatg tgaatacaca gatcacatca ttttgaactt catttgactc cactagtgct
+      301 tttacccttt taaggtttgg ggcaaaactg cttcaaaaat ctatggcccc aaagctggac
+      361 aagattattt ggacaatgaa cttaggttca gcttgttgtg tcaagtaagt tacttgttgt
+      421 actgttgtct tgactttatg tggcatttta cttttgtctt taaacatctt ttaaccctgt
+      481 tttcttgtca cactcaggca gcactagagg cacctagagt tctgaatttg aactgcagca
+      541 aaagcttctc aggaccatat ggtaacacct cccagttccg aaagcaccta aataatcaca
+      601 tttatatcct tgtaggtaat catctttatt tttcctattc tgcaggagag gatgttctct
+      661 tcattgccaa tgactggcac acagctctca ttccttgcta cctgaagtca atgtaccaat
+      721 ctaaaggaat ctatatgaat gcgaaggtaa aatctttctg tattcatttg atttcactta
+      781 atcctgcaaa tcaagaaggt tctattaata tatgatgaat ttcacattgc ctccaggttg
+      841 ctttctgcat ccataacatt gcctaccaag gccgattttc tttctcagac ttctct
+//
+
+LOCUS       AF397126                 927 bp    DNA     linear   PLN 26-JUL-2016
+DEFINITION  Capsicum galapagoense isolate W18 waxy (waxy) gene, partial cds.
+ACCESSION   AF397126
+VERSION     AF397126.1
+KEYWORDS    .
+SOURCE      Capsicum galapagoense
+  ORGANISM  Capsicum galapagoense
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; asterids; lamiids; Solanales; Solanaceae;
+            Solanoideae; Capsiceae; Capsicum.
+REFERENCE   1  (bases 1 to 927)
+  AUTHORS   Walsh,B.M. and Hoot,S.B.
+  TITLE     Phylogenetic relationships of Capsicum (Solanaceae) using DNA
+            sequences from two noncoding regions: The chloroplast atpB-rbcL
+            spacer region and nuclear waxy introns
+  JOURNAL   Int. J. Plant Sci. 162 (2), 1409-1418 (2001)
+REFERENCE   2  (bases 1 to 927)
+  AUTHORS   Hoot,S.B. and Walsh,B.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JUN-2001) Biological Sciences, University of
+            Wisconsin-Milwaukee, PO Box 413, Milwaukee, WI 53201, USA
+FEATURES             Location/Qualifiers
+     source          1..927
+                     /organism="Capsicum galapagoense"
+                     /mol_type="genomic DNA"
+                     /isolate="W18"
+                     /db_xref="taxon:165701"
+     gene            <1..>927
+                     /gene="waxy"
+     mRNA            join(<1..47,129..227,340..429,523..586,671..771,862..>927)
+                     /gene="waxy"
+                     /product="waxy"
+     CDS             join(<1..47,129..227,340..429,523..586,671..771,862..>927)
+                     /gene="waxy"
+                     /codon_start=3
+                     /product="waxy"
+                     /protein_id="AAL38502.1"
+                     /translation="YDQYKDAWDTSITIEVKVGDSIEVVRFFHCYKRGVDRIFVDHPM
+                     FLERVWGKTASKIYGPKAGQDYLDNELRFSLLCQAALEAPRVLNLNCSKSFSGPYGED
+                     VLFIANDWHTALIPCYLKSMYQSKGIYMNAKVAFCIHNIAYQGRFSFSDFSLL"
+ORIGIN      
+        1 gttatgacca atacaaagat gcctgggata caagcattac gattgaggta ttcctctctt
+       61 aactgtgact gatgcaatgt atatcttcca ttacctgatt tacgcatcta tccctatttt
+      121 gtctgcaggt caaagttgga gacagcattg aagttgttcg tttctttcac tgctataaac
+      181 gtggggttga tcgcattttt gttgaccacc caatgttctt ggagagagta agaatacgct
+      241 gaacccttag agaggtcctg agggatacta caatgtgaat acacagatca catcattttg
+      301 aacttcattt gactccacta gtgcttttac ccttttaagg tttggggcaa aactgcttca
+      361 aaaatctatg gccccaaagc tggacaagat tatttggaca atgaacttag gttcagcttg
+      421 ttgtgtcaag taagttactt gttgtactgt tgtcttgact ttatgtggca ttttactttt
+      481 gtctttaaac atcttttaac cctgttttct tgtcacactc aggcagcact agaggcacct
+      541 agagttctga atttgaactg cagcaaaagc ttctcaggac catatggtaa gacctcccag
+      601 ttccgaaagc acctaaataa tcacatttat atccttgtag gtaatcatct ttatttttcc
+      661 tattctgcag gagaggatgt tctcttcatt gccaatgact ggcacacagc tctcattcct
+      721 tgctacctga agtcaatgta ccaatctaaa ggaatctata tgaatgcgaa ggtaaaatct
+      781 ttctgtattc atttgatttc actttatcct gcaaatcaag aaggttctat taatatatga
+      841 tgaatttcac attgcctcca ggttgctttc tgcatccata acattgccta ccaaggccga
+      901 ttttctttct cagacttctc tcttctc
+//
+
+LOCUS       AF397124                 906 bp    DNA     linear   PLN 26-JUL-2016
+DEFINITION  Capsicum frutescens isolate W20 waxy (waxy) gene, partial cds.
+ACCESSION   AF397124
+VERSION     AF397124.1
+KEYWORDS    .
+SOURCE      Capsicum frutescens
+  ORGANISM  Capsicum frutescens
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; asterids; lamiids; Solanales; Solanaceae;
+            Solanoideae; Capsiceae; Capsicum.
+REFERENCE   1  (bases 1 to 906)
+  AUTHORS   Walsh,B.M. and Hoot,S.B.
+  TITLE     Phylogenetic relationships of Capsicum (Solanaceae) using DNA
+            sequences from two noncoding regions: The chloroplast atpB-rbcL
+            spacer region and nuclear waxy introns
+  JOURNAL   Int. J. Plant Sci. 162 (2), 1409-1418 (2001)
+REFERENCE   2  (bases 1 to 906)
+  AUTHORS   Hoot,S.B. and Walsh,B.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JUN-2001) Biological Sciences, University of
+            Wisconsin-Milwaukee, PO Box 413, Milwaukee, WI 53201, USA
+FEATURES             Location/Qualifiers
+     source          1..906
+                     /organism="Capsicum frutescens"
+                     /mol_type="genomic DNA"
+                     /isolate="W20"
+                     /db_xref="taxon:4073"
+     gene            <1..>906
+                     /gene="waxy"
+     mRNA            join(<1..25,107..205,318..407,501..564,650..750,841..>906)
+                     /gene="waxy"
+                     /product="waxy"
+     CDS             join(<1..25,107..205,318..407,501..564,650..750,841..>906)
+                     /gene="waxy"
+                     /codon_start=2
+                     /product="waxy"
+                     /protein_id="AAL38500.1"
+                     /translation="WDTSITIEVKVGDNIEVVRFFHCYKRGVDRIFVDHPMFLERVWG
+                     KTASKIYGPKAGQDYLDNELRFSLLCQAALEAPRVLNLNCSKSFSGPYGEDVLFIAND
+                     WHTALIPCYLKSMYQSKGIYMNAKVAFCIHNIAYQGRFSFSDFSLL"
+ORIGIN      
+        1 ctgggataca agcattacga ttgaggtatt cctctcttaa ctgtgactga tgcaatgtat
+       61 atcttccatt acctgattta cgcatctatc cctattttgt ctgcaggtca aagttggaga
+      121 caacatcgaa gttgttcgtt tctttcactg ctataaacgt ggggttgatc gcatttttgt
+      181 tgaccaccca atgttcttgg agagagtaag aatacgctga acccttagag aggtcctgag
+      241 ggatactaca atgtgaatac acagatcaca tcattttgaa cttcatttga ctccactagt
+      301 gcttttaccc ttttaaggtt tggggcaaaa ctgcttcaaa aatctatggc cccaaagctg
+      361 gacaagatta tttggacaat gaacttaggt tcagcttgtt gtgtcaagta agttacttgt
+      421 tgtactgttg tcttgacttt atgtggcatt ttacttttgt ctttaaacat cttttaaccc
+      481 tgttttcttg tcacactcag gcagcactag aggcacctag agttctgaat ttgaactgca
+      541 gcaaaagctt ctcaggacca tatggtaaca cctcccagtt ccgaaagcac ctaaataatc
+      601 acatttatat ccttgtaggt aaatcatctt tatttttcct attctgcagg agaggatgtt
+      661 ctcttcattg ccaatgactg gcacacagct ctcattcctt gctacctgaa gtcaatgtac
+      721 caatctaaag gaatctatat gaatgcgaag gtaaaatctt tctgtattca tttgatttca
+      781 ctttatcctg caaatcaaga aggttctatt aatatatgat gaatttcgca ttgcctccag
+      841 gttgctttct gcatccataa cattgcctac caaggccgat tttctttctc agacttctct
+      901 cttctc
+//
+
+LOCUS       AF397123                 927 bp    DNA     linear   PLN 26-JUL-2016
+DEFINITION  Capsicum chinense isolate W3 waxy (waxy) gene, partial cds.
+ACCESSION   AF397123
+VERSION     AF397123.1
+KEYWORDS    .
+SOURCE      Capsicum chinense
+  ORGANISM  Capsicum chinense
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; asterids; lamiids; Solanales; Solanaceae;
+            Solanoideae; Capsiceae; Capsicum.
+REFERENCE   1  (bases 1 to 927)
+  AUTHORS   Walsh,B.M. and Hoot,S.B.
+  TITLE     Phylogenetic relationships of Capsicum (Solanaceae) using DNA
+            sequences from two noncoding regions: The chloroplast atpB-rbcL
+            spacer region and nuclear waxy introns
+  JOURNAL   Int. J. Plant Sci. 162 (2), 1409-1418 (2001)
+REFERENCE   2  (bases 1 to 927)
+  AUTHORS   Hoot,S.B. and Walsh,B.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JUN-2001) Biological Sciences, University of
+            Wisconsin-Milwaukee, PO Box 413, Milwaukee, WI 53201, USA
+FEATURES             Location/Qualifiers
+     source          1..927
+                     /organism="Capsicum chinense"
+                     /mol_type="genomic DNA"
+                     /isolate="W3"
+                     /db_xref="taxon:80379"
+     gene            <1..>927
+                     /gene="waxy"
+     mRNA            join(<1..47,129..227,340..429,523..586,671..771,862..>927)
+                     /gene="waxy"
+                     /product="waxy"
+     CDS             join(<1..47,129..227,340..429,523..586,671..771,862..>927)
+                     /gene="waxy"
+                     /codon_start=3
+                     /product="waxy"
+                     /protein_id="AAL38499.1"
+                     /translation="YDQYKDAWDTSITIEVKVGDNIEVVRFFHCYKRGVDRIFVDHPM
+                     FLERVWGKTASKIYGPKAGQDYLDNELRFSLLCQAALEAPRVLNLNCSKSFSGPYGED
+                     VLFIANDWHTALIPCYLKSMYQSKGIYMNAKVAFCIHNIAYQGRFSFSDFSLL"
+ORIGIN      
+        1 gttatgacca atacaaagat gcctgggata caagcattac gattgaggta ttcctctctt
+       61 aactgtgact gatgcaatgt atatcttcca ttacctgatt tacgcatcta tccctatttt
+      121 gtctgcaggt caaagttgga gacaacatcg aagttgttcg tttctttcac tgctataaac
+      181 gtggggttga tcgcattttt gttgaccacc caatgttctt ggagagagta agaatacgct
+      241 gaacccttag agaggtcctg agggatacta caatgtgaat acacagatca catcattttg
+      301 aacttcattt gactccacta gtgcttttac ccttttaagg tttggggcaa aactgcttca
+      361 aaaatctatg gccccaaagc tggacaagat tatttggaca atgaacttag gttcagcttg
+      421 ttgtgtcaag taagttactt gttgtactgt tgtcttgact ttatgtggca ttttactttt
+      481 gtctttaaac atcttttaac cctgttttct tgtcacactc aggcagcact agaggcaccg
+      541 agagttctga atttgaactg cagcaaaagc ttctcaggac catatggtaa cacctcccag
+      601 ttccgaaagc acctaaataa tcacatttat atccttgtag gtaatcatct ttatttttcc
+      661 tattctgcag gagaggatgt tctcttcatt gccaatgact ggcacacagc tctcattcct
+      721 tgctacctga agtcaatgta ccaatctaaa ggaatctata tgaatgcgaa ggtaaaatct
+      781 ttctgtattc atttgatttc actttatcct gcaaatcaag aaggttctat taatatatga
+      841 tgaatttcac attgcctcca ggttgctttc tgcatccata acattgccta ccaaggccga
+      901 ttttctttct cagacttctc tcttctc
+//
+
+LOCUS       AF397122                 928 bp    DNA     linear   PLN 26-JUL-2016
+DEFINITION  Capsicum chacoense isolate W7 waxy (waxy) gene, partial cds.
+ACCESSION   AF397122
+VERSION     AF397122.1
+KEYWORDS    .
+SOURCE      Capsicum chacoense
+  ORGANISM  Capsicum chacoense
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; asterids; lamiids; Solanales; Solanaceae;
+            Solanoideae; Capsiceae; Capsicum.
+REFERENCE   1  (bases 1 to 928)
+  AUTHORS   Walsh,B.M. and Hoot,S.B.
+  TITLE     Phylogenetic relationships of Capsicum (Solanaceae) using DNA
+            sequences from two noncoding regions: The chloroplast atpB-rbcL
+            spacer region and nuclear waxy introns
+  JOURNAL   Int. J. Plant Sci. 162 (2), 1409-1418 (2001)
+REFERENCE   2  (bases 1 to 928)
+  AUTHORS   Hoot,S.B. and Walsh,B.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JUN-2001) Biological Sciences, University of
+            Wisconsin-Milwaukee, PO Box 413, Milwaukee, WI 53201, USA
+FEATURES             Location/Qualifiers
+     source          1..928
+                     /organism="Capsicum chacoense"
+                     /mol_type="genomic DNA"
+                     /isolate="W7"
+                     /db_xref="taxon:107817"
+     gene            <1..>928
+                     /gene="waxy"
+     mRNA            join(<1..47,129..227,341..430,524..587,672..772,863..>928)
+                     /gene="waxy"
+                     /product="waxy"
+     CDS             join(<1..47,129..227,341..430,524..587,672..772,863..>928)
+                     /gene="waxy"
+                     /codon_start=3
+                     /product="waxy"
+                     /protein_id="AAL38498.1"
+                     /translation="YDQYKDAWDTSITIEVKVGDNIEVVRFFHCYKRGVDRIFVDHPM
+                     FLERVWGKTASKIYGPKAGQDYLDNELRFSLLCQAALEAPRVLNLNCSKSFSGPYGED
+                     VLFIANDWHTALIPCYLKSMYQSKGIYMNAKVAFCIHNIAYQGRFSFSDFSLL"
+ORIGIN      
+        1 gttatgacca atacaaagat gcctgggata caagcattac gattgaggta ttcctctctt
+       61 aactgtgact gatgcaatgt atatcttcca ttacctgatt tacgcgtcta tccctatttt
+      121 gtctgcaggt caaagttgga gacaacatcg aagttgttcg tttctttcac tgctataaac
+      181 gtggggttga tcgcattttt gttgaccacc caatgttctt ggagagagta agaatacgct
+      241 gaacccttag agaggtcctg agggatacta caatgtgaat acacagatca catcattttg
+      301 aacttcattt gactccacta gtgcttttac cctttttaag gtttggggca aaactgcttc
+      361 aaaaatctat ggccccaaag ctggacaaga ttatttggac aatgaactta ggttcagctt
+      421 gttgtgtcaa gtaagttact tgttgtactg ttgtcttgac tttatgtggc attttacttt
+      481 tggctttaaa catcttttaa ccctgttttc ttgtcacact caggcagcac tagaggcacc
+      541 tagagttctg aatttgaact gcagcaaaag cttctcagga ccatatggta acacctccca
+      601 gttccgaaag cacctaaata atcacattta tatccttgta ggtaatcatc tttatttttc
+      661 ctattctgca ggagaggatg ttctcttcat tgccaatgac tggcacacag ctctcattcc
+      721 ttgctacctg aagtcaatgt accaatctaa aggaatctat atgaatgcga aggtaaaata
+      781 tttctgtgtt catttgattt cactttatcc tgcaaatcaa gaaggttcta ttaatatatg
+      841 atgaatttca cattgcctcc aggttgcttt ctgcatccat aacattgcct accaaggccg
+      901 attttctttc tcagacttct ctcttctc
+//
+
+LOCUS       AF397121                 927 bp    DNA     linear   PLN 26-JUL-2016
+DEFINITION  Capsicum baccatum var. pendulum isolate W9 waxy (waxy) gene,
+            partial cds.
+ACCESSION   AF397121
+VERSION     AF397121.1
+KEYWORDS    .
+SOURCE      Capsicum baccatum var. pendulum
+  ORGANISM  Capsicum baccatum var. pendulum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; asterids; lamiids; Solanales; Solanaceae;
+            Solanoideae; Capsiceae; Capsicum.
+REFERENCE   1  (bases 1 to 927)
+  AUTHORS   Walsh,B.M. and Hoot,S.B.
+  TITLE     Phylogenetic relationships of Capsicum (Solanaceae) using DNA
+            sequences from two noncoding regions: The chloroplast atpB-rbcL
+            spacer region and nuclear waxy introns
+  JOURNAL   Int. J. Plant Sci. 162 (2), 1409-1418 (2001)
+REFERENCE   2  (bases 1 to 927)
+  AUTHORS   Hoot,S.B. and Walsh,B.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JUN-2001) Biological Sciences, University of
+            Wisconsin-Milwaukee, PO Box 413, Milwaukee, WI 53201, USA
+FEATURES             Location/Qualifiers
+     source          1..927
+                     /organism="Capsicum baccatum var. pendulum"
+                     /mol_type="genomic DNA"
+                     /variety="pendulum"
+                     /isolate="W9"
+                     /db_xref="taxon:40320"
+     gene            <1..>927
+                     /gene="waxy"
+     mRNA            join(<1..47,129..227,340..429,523..586,671..771,862..>927)
+                     /gene="waxy"
+                     /product="waxy"
+     CDS             join(<1..47,129..227,340..429,523..586,671..771,862..>927)
+                     /gene="waxy"
+                     /codon_start=3
+                     /product="waxy"
+                     /protein_id="AAL38497.1"
+                     /translation="YDQYKDAWDTSITIEVKVGDNIEVVRFFHCYKRGVDRIFVDHPM
+                     FLERVWGKTASKIYGPKAGQDYLDNELRFSLLCQAALEAPRVLNLNCSKSFSGPYGED
+                     VLFIANDWHTALIPCYLKSMYQSKGIYMNAKVAFCIHNIAYQGRFSFSDFSLL"
+ORIGIN      
+        1 gttatgacca atacaaagat gcctgggata caagcattac gattgaggta ttcctctctt
+       61 aactgtgact gatgcaatgt atatcttcca ttacctgatt tacgcatcta tccctatttt
+      121 gtctgcaggt caaagttgga gacaacatcg aagttgttcg tttctttcac tgctataaac
+      181 gtggggttga tcgcattttt gttgaccacc caatgttctt ggagagagta agaatacgct
+      241 gaacccttag aaaggtcctg agggatacta cattgtgaat acacagatca catcattttg
+      301 aacttcattt gactccacta gtgcttttac ccttttaagg tttggggcaa aactgcttca
+      361 aaaatctatg gccccaaagc tggacaagat tatttggaca atgaacttag gttcagcttg
+      421 ttgtgtcaag taagttactt gttgtactgt tatcttgact ttatgtggca ttttactttt
+      481 gtatttaaac atcttttaac cctgttttct tgtcatactc aggcagcact agaggcacct
+      541 agagttctga atttgaactg cagcaaaagc ttctcagggc catatggtaa cacctcccaa
+      601 ttccgaaagc acctaaataa tcacatttat atccttgtag gtaatcatct ttatttttcc
+      661 tattctgcag gagaggatgt tctcttcatt gccaatgact ggcacacagc tctcattcct
+      721 tgctacctga agtcgatgta ccaatctaaa ggaatctata tgaatgcgaa ggtaaaatct
+      781 ttctgtattc atttgatttc actttatcct gcaaatcaag aaggttctat taatatatga
+      841 tgaatttcac attgcctcca ggttgctttc tgcatccata acattgccta ccaaggccga
+      901 ttttctttct cagacttctc tcttctc
+//
+
+LOCUS       AF397120                 927 bp    DNA     linear   PLN 26-JUL-2016
+DEFINITION  Capsicum baccatum var. baccatum isolate W6 waxy (waxy) gene,
+            partial cds.
+ACCESSION   AF397120
+VERSION     AF397120.1
+KEYWORDS    .
+SOURCE      Capsicum baccatum var. baccatum
+  ORGANISM  Capsicum baccatum var. baccatum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; asterids; lamiids; Solanales; Solanaceae;
+            Solanoideae; Capsiceae; Capsicum.
+REFERENCE   1  (bases 1 to 927)
+  AUTHORS   Walsh,B.M. and Hoot,S.B.
+  TITLE     Phylogenetic relationships of Capsicum (Solanaceae) using DNA
+            sequences from two noncoding regions: The chloroplast atpB-rbcL
+            spacer region and nuclear waxy introns
+  JOURNAL   Int. J. Plant Sci. 162 (2), 1409-1418 (2001)
+REFERENCE   2  (bases 1 to 927)
+  AUTHORS   Hoot,S.B. and Walsh,B.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JUN-2001) Biological Sciences, University of
+            Wisconsin-Milwaukee, PO Box 413, Milwaukee, WI 53201, USA
+FEATURES             Location/Qualifiers
+     source          1..927
+                     /organism="Capsicum baccatum var. baccatum"
+                     /mol_type="genomic DNA"
+                     /variety="baccatum"
+                     /isolate="W6"
+                     /db_xref="taxon:165788"
+     gene            <1..>927
+                     /gene="waxy"
+     mRNA            join(<1..47,129..227,340..429,523..586,671..771,862..>927)
+                     /gene="waxy"
+                     /product="waxy"
+     CDS             join(<1..47,129..227,340..429,523..586,671..771,862..>927)
+                     /gene="waxy"
+                     /codon_start=3
+                     /product="waxy"
+                     /protein_id="AAL38496.1"
+                     /translation="YDQYKDAWDTSITIEVKVGDNIEVVRFFHCYKRGVDRIFVDHPM
+                     FLERVWGKTASKIYGPKAGQDYLDNELRFSLLCQAALEAPRVLNLNCSKSFSGPYGED
+                     VLFIANDWHTALIPCYLKSMYQSKGIYMNAKVAFCIHNIAYQGRFSFSDFSLL"
+ORIGIN      
+        1 gttatgacca atacaaagat gcctgggata caagcattac gattgaggta ttcctctctt
+       61 aactgtgact gatgcaatgt atatcttcca ttacctgatt tacgcatcta tccctatttt
+      121 gtctgcaggt caaagttgga gacaacatcg aagttgttcg tttctttcac tgctataaac
+      181 gtggggttga tcgcattttt gttgaccacc caatgttctt ggagagagta agaatacgct
+      241 gaacccttag aaaggtcctg agggatacta caatgtgaat acacagatca catcattttg
+      301 aacttcattt gactccacta gtgcttttac ccttttaagg tttggggcaa aactgcttca
+      361 aaaatctatg gccccaaagc tggacaagat tatttggaca atgaacttag gttcagcttg
+      421 ttgtgtcaag taagttactt gttgtactgt tatcttgact ttatgtggca ttttactttt
+      481 gtatttaaac atcttttaac cctgttttct tgtcatactc aggcagcact agaggcacct
+      541 agagttctga atttgaactg cagcaaaagc ttctcaggac catatggtaa cacctcccag
+      601 ttccgaaagc acctaaataa tcacatttat atccttgtag gtaatcatct ttatttttcc
+      661 tattctgcag gagaggatgt tctcttcatt gccaatgact ggcacacagc tctcattcct
+      721 tgctacctga agtcaatgta ccaatctaaa ggaatctata tgaatgcgaa ggtaaaatct
+      781 ttctgtattc atttgatttc actttatcct gcaaatcaag aaggttctat taatatatga
+      841 tgaatttcac attgcctcca ggttgctttc tgcatccata acattgccta ccaaggccga
+      901 ttttctttct cagacttctc tcttctc
+//
+
+LOCUS       AF397119                 927 bp    DNA     linear   PLN 26-JUL-2016
+DEFINITION  Capsicum pubescens isolate W17 waxy (waxy) gene, partial cds.
+ACCESSION   AF397119
+VERSION     AF397119.1
+KEYWORDS    .
+SOURCE      Capsicum pubescens
+  ORGANISM  Capsicum pubescens
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; asterids; lamiids; Solanales; Solanaceae;
+            Solanoideae; Capsiceae; Capsicum.
+REFERENCE   1  (bases 1 to 927)
+  AUTHORS   Walsh,B.M. and Hoot,S.B.
+  TITLE     Phylogenetic relationships of Capsicum (Solanaceae) using DNA
+            sequences from two noncoding regions: The chloroplast atpB-rbcL
+            spacer region and nuclear waxy introns
+  JOURNAL   Int. J. Plant Sci. 162 (2), 1409-1418 (2001)
+REFERENCE   2  (bases 1 to 927)
+  AUTHORS   Hoot,S.B. and Walsh,B.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JUN-2001) Biological Sciences, University of
+            Wisconsin-Milwaukee, PO Box 413, Milwaukee, WI 53201, USA
+FEATURES             Location/Qualifiers
+     source          1..927
+                     /organism="Capsicum pubescens"
+                     /mol_type="genomic DNA"
+                     /isolate="W17"
+                     /db_xref="taxon:113210"
+     gene            <1..>927
+                     /gene="waxy"
+     mRNA            join(<1..47,129..227,340..429,523..586,671..771,862..>927)
+                     /gene="waxy"
+                     /product="waxy"
+     CDS             join(<1..47,129..227,340..429,523..586,671..771,862..>927)
+                     /gene="waxy"
+                     /codon_start=3
+                     /product="waxy"
+                     /protein_id="AAL38495.1"
+                     /translation="YDQYKDAWDTSITIEVKVGDNIEVVRFFHCYKRGVDRIFVDHPM
+                     FLERVWGKTASKIYGPKAGQDYLDNELRFSLLCQAALEAPRVLNLNCSKSFSGPYGED
+                     VLFIANDWHTALIPCYLKSMYQSKGIYMNAKVAFCIHNIAYQGRFSFSDFSLL"
+ORIGIN      
+        1 gttatgacca atacaaagat gcctgggata caagcattac gattgaggta ttcctctctt
+       61 aactgtgact gatgcaatgt atatcttcca ttacctgatt tacgcatctc tccctatttt
+      121 gtctgcaggt caaagttgga gacaacatcg aagttgttcg tttctttcac tgctataaac
+      181 gtggggttga tcgcattttt gttgaccacc caatgttctt ggagagagta agaatacgct
+      241 gaacccttag agaggtcctg agggatacta caatgtgaat acacagaaca catcattttg
+      301 aacttcattt gactccacta gtgcttttac ccttttaagg tttggggcaa aactgcttca
+      361 aaaatctatg gccccaaagc tggacaagat tatttggaca atgaacttag gttcagcttg
+      421 ttgtgtcaag taagttactt gttgtactgt tgtcttgact ttatgtggca ttttactttt
+      481 gtctttaaac atcttttaac tctgttttct tgtcacactc aggcagcact agaggcacct
+      541 agagttctga atttgaactg cagcaaaagc ttctcaggac catatggtaa cccctcccag
+      601 ttccgaaagc acctaaataa tcacatttat atccttgtag gtaatcatct ttatttttcc
+      661 tattctgcag gagaggatgt tctcttcatt gccaatgact ggcacacagc tctcattcct
+      721 tgctacctga agtcaatgta ccaatctaaa ggaatctata tgaatgcgaa ggtaaaatct
+      781 ttctgtattc atttgatttc actttatcct gcaaatcaag aaggttctat taatatatga
+      841 tgaatttcac attgcctcca ggttgctttc tgcatccata acattgccta ccaaggccga
+      901 ttttctttct cagacttctc tcttctc
+//
+
+LOCUS       AF397118                 897 bp    DNA     linear   PLN 26-JUL-2016
+DEFINITION  Capsicum tovarii isolate W34 waxy (waxy) gene, partial cds.
+ACCESSION   AF397118
+VERSION     AF397118.1
+KEYWORDS    .
+SOURCE      Capsicum tovarii
+  ORGANISM  Capsicum tovarii
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; asterids; lamiids; Solanales; Solanaceae;
+            Solanoideae; Capsiceae; Capsicum.
+REFERENCE   1  (bases 1 to 897)
+  AUTHORS   Walsh,B.M. and Hoot,S.B.
+  TITLE     Phylogenetic relationships of Capsicum (Solanaceae) using DNA
+            sequences from two noncoding regions: The chloroplast atpB-rbcL
+            spacer region and nuclear waxy introns
+  JOURNAL   Int. J. Plant Sci. 162 (2), 1409-1418 (2001)
+REFERENCE   2  (bases 1 to 897)
+  AUTHORS   Hoot,S.B. and Walsh,B.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JUN-2001) Biological Sciences, University of
+            Wisconsin-Milwaukee, PO Box 413, Milwaukee, WI 53201, USA
+FEATURES             Location/Qualifiers
+     source          1..897
+                     /organism="Capsicum tovarii"
+                     /mol_type="genomic DNA"
+                     /isolate="W34"
+                     /db_xref="taxon:165702"
+     gene            <1..>897
+                     /gene="waxy"
+     mRNA            join(<105..203,316..405,499..562,647..747,838..>897)
+                     /gene="waxy"
+                     /product="waxy"
+     CDS             join(<105..203,316..405,499..562,647..747,838..>897)
+                     /gene="waxy"
+                     /codon_start=1
+                     /product="waxy"
+                     /protein_id="AAL38494.1"
+                     /translation="VKVGDNIEVVRFFHCYKRGVDRIFVDHPMFLERVWGKTASKIYG
+                     PKAGQDYLDNELRFSLFCQAALEAPRVLNLNCSKSFSGPYGEDVLFIANDWHTALIPC
+                     YLKSIYQSKGIYMNAKVAFCIHNISYQGRFSFSDFS"
+ORIGIN      
+        1 ctgggatacg cattacgatt gaggtattcc tctcttaact gtgactgatg caaagcatat
+       61 cttccattac ctgatttacg catctatccc tattttgtct gcaggtcaaa gttggagaca
+      121 acatcgaagt tgttcgtttc tttcactgct ataaacgtgg ggttgatcgc atttttgttg
+      181 accacccaat gttcttggag agagtaagaa tacgctgaac ccttagagag gtcctgaggg
+      241 atactacaat gtgaatacac agaacacatc attttgaact tcatttaact ccactagtgc
+      301 tttttccctt ttaaggtttg gggcaaaact gcttcaaaaa tctatggccc caaagctgga
+      361 caagattatt tggacaatga acttaggttc agcttgttct gtcaagtaag ttacttgttg
+      421 tactgttgtc ttgactttat gtggcatttt acttttgtct ttaaacatct tttaaccctg
+      481 ttttcttgtc acactcaggc agcactagag gcacctagag ttctgaattt gaactgcagc
+      541 aaaagcttct caggaccata tggtaacacc tcccagttcc gaaagtacct aaataatcac
+      601 atttatatcc ttgtaggtaa tcatctttat ttttcctatt ctgcaggaga ggatgttctc
+      661 ttcattgcca atgactggca cacagctctc attccttgct acctgaagtc aatttaccaa
+      721 tctaaaggaa tctatatgaa tgcgaaggta aaatctttct gtattcattt gatttcgctt
+      781 tatcctgcaa atcaagaagg ttctattaat atatgatgaa tttcacattg cctccaggtt
+      841 gctttctgca tccataacat ttcctatcaa ggccgatttt ctttctcaga cttctct
+//
+
+LOCUS       AF397117                 869 bp    DNA     linear   PLN 26-JUL-2016
+DEFINITION  Capsicum eximium isolate W35 waxy (waxy) gene, partial cds.
+ACCESSION   AF397117
+VERSION     AF397117.1
+KEYWORDS    .
+SOURCE      Capsicum eximium
+  ORGANISM  Capsicum eximium
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; asterids; lamiids; Solanales; Solanaceae;
+            Solanoideae; Capsiceae; Capsicum.
+REFERENCE   1  (bases 1 to 869)
+  AUTHORS   Walsh,B.M. and Hoot,S.B.
+  TITLE     Phylogenetic relationships of Capsicum (Solanaceae) using DNA
+            sequences from two noncoding regions: The chloroplast atpB-rbcL
+            spacer region and nuclear waxy introns
+  JOURNAL   Int. J. Plant Sci. 162 (2), 1409-1418 (2001)
+REFERENCE   2  (bases 1 to 869)
+  AUTHORS   Hoot,S.B. and Walsh,B.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JUN-2001) Biological Sciences, University of
+            Wisconsin-Milwaukee, PO Box 413, Milwaukee, WI 53201, USA
+FEATURES             Location/Qualifiers
+     source          1..869
+                     /organism="Capsicum eximium"
+                     /mol_type="genomic DNA"
+                     /isolate="W35"
+                     /db_xref="taxon:165700"
+     gene            <1..>869
+                     /gene="waxy"
+     mRNA            join(<1..14,96..194,307..396,490..553,642..742,832..>869)
+                     /gene="waxy"
+                     /product="waxy"
+     CDS             join(<1..14,96..194,307..396,490..553,642..742,832..>869)
+                     /gene="waxy"
+                     /codon_start=3
+                     /product="waxy"
+                     /protein_id="AAL38493.1"
+                     /translation="IKIEVKVGDHIEVVRFFHCYKRGVDRIFVDHPMFLERVWGKTAS
+                     KIYGPKAGQDYLDNELRFSLLCQVALEAPRVLNLNCSKSFSGPYGEDVLFIANDWHTA
+                     LIPCYLKSMYQSKGIYMNAKVAFRIHNIAYQXR"
+ORIGIN      
+        1 gcattaagat tgaggtattc ctctcttaac tgtgactgat gcaatgtgaa tcttccatta
+       61 cctgattttc gcatctatcc ctattttttc tgcaggtcaa agttggagac cacatcgaag
+      121 ttgttcgttt ctttcactgc tataaacgtg gggttgatcg catttttgtt gaccacccaa
+      181 tgttcttgga gagagtaaga atattctgaa cccttagaga ggtcctgagg gatactacaa
+      241 tgtgaataca tagaacacat cattttgaac ttcatctgac tccactagtg cttttaccct
+      301 tttaaggttt ggggcaaaac tgcctcaaaa atctatggcc ccaaagctgg acaagattat
+      361 ttggacaatg aacttaggtt cagcttgttg tgtcaagtaa gttacttgtt gtactgttgt
+      421 cttgacttta tgtggcattt tacttttgtc tttaaacatc ttttaaccct gttttcttgt
+      481 cacactcagg tagcactaga ggcacctaga gttctgaatt tgaactgcag caaaagcttc
+      541 tcaggaccat atggtaacac ctcccagttc cgaaagcacc taaataaata atcacattta
+      601 tatccttgta ggtaatcatc tttatttttc ctattctgca ggagaggatg ttctcttcat
+      661 tgccaatgac tggcacacag ctctcattcc ttgctacctg aagtcaatgt accaatctaa
+      721 aggaatctat atgaatgcga aggtaatatc tttctgtatt catttgattt cactttatcc
+      781 tgcaaatcaa gaaggttcta ttaatatatg atgaatttcc attgcatcca ggttgctttc
+      841 cgcatccata acattgccta ccaagrccg
+//
+
+LOCUS       AF397116                 927 bp    DNA     linear   PLN 26-JUL-2016
+DEFINITION  Capsicum cardenasii isolate W26 waxy (waxy) gene, partial cds.
+ACCESSION   AF397116
+VERSION     AF397116.1
+KEYWORDS    .
+SOURCE      Capsicum cardenasii
+  ORGANISM  Capsicum cardenasii
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; asterids; lamiids; Solanales; Solanaceae;
+            Solanoideae; Capsiceae; Capsicum.
+REFERENCE   1  (bases 1 to 927)
+  AUTHORS   Walsh,B.M. and Hoot,S.B.
+  TITLE     Phylogenetic relationships of Capsicum (Solanaceae) using DNA
+            sequences from two noncoding regions: The chloroplast atpB-rbcL
+            spacer region and nuclear waxy introns
+  JOURNAL   Int. J. Plant Sci. 162 (2), 1409-1418 (2001)
+REFERENCE   2  (bases 1 to 927)
+  AUTHORS   Hoot,S.B. and Walsh,B.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JUN-2001) Biological Sciences, University of
+            Wisconsin-Milwaukee, PO Box 413, Milwaukee, WI 53201, USA
+FEATURES             Location/Qualifiers
+     source          1..927
+                     /organism="Capsicum cardenasii"
+                     /mol_type="genomic DNA"
+                     /isolate="W26"
+                     /db_xref="taxon:165698"
+     gene            <1..>927
+                     /gene="waxy"
+     mRNA            join(<1..47,129..227,340..429,523..586,671..771,862..>927)
+                     /gene="waxy"
+                     /product="waxy"
+     CDS             join(<1..47,129..227,340..429,523..586,671..771,862..>927)
+                     /gene="waxy"
+                     /codon_start=3
+                     /product="waxy"
+                     /protein_id="AAL38492.1"
+                     /translation="YDQYKDAWDTSITIEVKVGDNIEVVRFFHCYKRGVDRIFVDHPM
+                     FLERVWGKTASKIYGPKAGQDYLDNELRFSLLCQVALEAPRVLNLNCSKSFSGPYGED
+                     VLFIANDWHTALIPCYLKSMYQSRGIYMNAKVAFCIHNIAYQGRFSFSDFSLL"
+ORIGIN      
+        1 gttatgacca atacaaagat gcctgggata caagcattac gattgaggta ttcctctctt
+       61 aactgtgact gatgcaatgt atatcttcca ttacctgatt tacgcatcta tccctatttt
+      121 gtctgcaggt caaagttgga gacaacatcg aagttgttcg tttctttcac tgctataaac
+      181 gtggggttga tcgcattttt gttgaccacc caatgttctt ggagagagta agaatattct
+      241 gaacccttag acaggtcctg agggatacta caatgtgaat acacagaaca catcattttg
+      301 aacttcatct gactccacta gtgcttttac ccttttaagg tttggggcaa aactgcttca
+      361 aaaatctatg gccccaaagc tggacaagat tatttggaca atgaacttag gttcagcttg
+      421 ttgtgtcaag taagttactt gttgtactgt tgtcttgact ttatgtggca ttttactttt
+      481 gtctttaaac atcttttaac cctgttttct tgtcacactc aggtagcact agaggcacct
+      541 agagttctga atttgaactg cagcaaaagc ttctcaggac catatggtaa cacctcccag
+      601 ttccgaaagc acctaaataa tcacatttat atccttgtag gtaatcatct ttatttttcc
+      661 tattctgcag gagaggatgt tctcttcatt gccaatgact ggcacacagc tctcattcct
+      721 tgctacctga agtcaatgta ccaatctaga ggaatctata tgaatgcgaa ggtaatatct
+      781 ttctgtattc atttgatttc actttatcct gcaaatcaag aaggttctat taatatatga
+      841 tgaatttcac attgcctcca ggttgctttc tgcatccata acattgccta ccaaggccga
+      901 ttttctttct cagacttctc tcttctc
+//
+
